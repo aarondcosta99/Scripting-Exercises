@@ -1,2 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/bash
+echo "The current time and date is $(date)"
+echo "The username is $(whoami)"
+echo "The currrent working directory is $(pwd)"
