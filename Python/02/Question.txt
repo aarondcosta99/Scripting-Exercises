@@ -1,1 +1,1 @@
-Write a script to display the current date, time, username, and current working directory.
+Write a script to display the current working directory.
